@@ -19,9 +19,9 @@ Moreover, the dashboard offers running totals to track cumulative budget spendin
 
 <br>
 <p align="center">
-  <img src="https://github.com/omar-018/Projects/blob/main/PowerBI/Budget_Forecast_Dashboard/Dashboard_Visuals_1.gif" alt="GIF 1", width="49%">
-  <img src="https://github.com/omar-018/Projects/blob/main/PowerBI/Budget_Forecast_Dashboard/Dashboard_Visuals_2.gif" alt="GIF 2", width="49%">
-  <img src="https://github.com/omar-018/Projects/blob/main/PowerBI/Budget_Forecast_Dashboard/Dashboard_Visuals_3.gif" alt="GIF 3", width="49%">
+  <img src="https://github.com/omar-018/PowerBI/blob/main/Budget_Forecast_Dashboard/Dashboard_Visuals_1.gif" alt="GIF 1", width="49%">
+  <img src="https://github.com/omar-018/PowerBI/blob/main/Budget_Forecast_Dashboard/Dashboard_Visuals_2.gif" alt="GIF 2", width="49%">
+  <img src="https://github.com/omar-018/PowerBI/blob/main/Budget_Forecast_Dashboard/Dashboard_Visuals_3.gif" alt="GIF 3", width="49%">
 </p>
 
 ## Project 2: Hospitality Sales Dashboard
@@ -39,8 +39,8 @@ With the inclusion of week-on-week analysis, users can monitor the progress of r
 
 <br>
 <p align="center">
-  <img src="https://github.com/omar-018/Projects/blob/main/PowerBI/Hospitality_Sales_Dashboard/Dashboard_Visual.gif" alt="GIF 1", width="49%">
-  <img src="https://github.com/omar-018/Projects/blob/main/PowerBI/Hospitality_Sales_Dashboard/Dashboard_Visual_2.gif" alt="GIF 2", width="49%">
+  <img src="https://github.com/omar-018/PowerBI/blob/main/Hospitality_Sales_Dashboard/Dashboard_Visual.gif" alt="GIF 1", width="49%">
+  <img src="https://github.com/omar-018/PowerBI/blob/main/Hospitality_Sales_Dashboard/Dashboard_Visual_2.gif" alt="GIF 2", width="49%">
 </p>
 
 ## Usage
